@@ -1,1 +1,2 @@
 # Sentiment-Analysis-Using-Comments-of-Twitter
+I used the dataset from analyticsvidhya.com ; here a tweet with label '0' is of positive sentiment while a tweet with label '1' is of negative sentiment. Analysised the sentiment of the comments. Did tokenization , stemming and cleaned data. Calculated the highly frequency's words , made barchart for 10 high frequency words. Used tf-idf , used logistics regression and Naive Bayes and used k-fold = 10 to calculate the average accuracy for both of the classifier. 
